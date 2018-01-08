@@ -1,0 +1,18 @@
+{
+  "name": "vaultv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "eccrypto": "^1.0.3",
+    "hdkey": "^0.7.1",
+    "secp256k1": "^3.4.0",
+    "secrets.js-grempe": "^1.1.0"
+  }
+}
